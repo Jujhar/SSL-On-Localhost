@@ -1,4 +1,4 @@
-C:\Program Files (x86)\Ampps\apache\conf
+C:/Program Files (x86)/Ampps/apache/bin
 
 ***1***<br />
 set OPENSSL_CONF="c:\Program Files (x86)\Ampps\apache\conf\openssl.cnf"
